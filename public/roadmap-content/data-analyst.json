@@ -441,22 +441,6 @@
       }
     ]
   },
-  "g_EBQizZsIe-vn8ir6FTv": {
-    "title": "R",
-    "description": "R is a powerful language profoundly used by data analysts and statisticians across the globe. Offering a wide array of statistical and graphical techniques, R proves to be an excellent tool for data manipulation, statistical modeling and visualization. With its comprehensive collection of packages and built-in functions for data analysis, R allows data analysts to perform complex exploratory data analysis, build sophisticated models and create stunning visualizations. Moreover, given its open-source nature, R consistently advances with contributions from the worldwide statistical community.\n\nLearn more from the following resources:",
-    "links": [
-      {
-        "title": "R Website",
-        "url": "https://www.r-project.org/about.html",
-        "type": "article"
-      },
-      {
-        "title": "R vs Python | Which is Better for Data Analysis?",
-        "url": "https://www.youtube.com/watch?v=1gdKC5O0Pwc",
-        "type": "video"
-      }
-    ]
-  },
   "M1QtGTLyygIjePoCfvjve": {
     "title": "Data Manipulation Libraries",
     "description": "Data manipulation libraries are essential tools in data science and analytics, enabling efficient handling, transformation, and analysis of large datasets. Python, a popular language for data science, offers several powerful libraries for this purpose. Pandas is a highly versatile library that provides data structures like DataFrames, which allow for easy manipulation and analysis of tabular data. NumPy, another fundamental library, offers support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays. Together, Pandas and NumPy form the backbone of data manipulation in Python, facilitating tasks such as data cleaning, merging, reshaping, and statistical analysis, thus streamlining the data preparation process for machine learning and other data-driven applications.\n\nLearn more from the following resources:",
@@ -692,21 +676,10 @@
       }
     ]
   },
-  "Fyqg3MRcwY7g-Q3gjiqwK": {
-    "title": "Distribution Space",
-    "description": "In the realm of Data Analysis, the distribution shape is considered as an essential component under descriptive analysis. A data analyst uses the shape of the distribution to understand the spread and trend of the data set. It aids in identifying the skewness (asymmetry) and kurtosis (the 'tailedness') of the data and helps to reveal meaningful patterns that standard statistical measures like mean or median might not capture. The distribution shape can provide insights into data’s normality and variability, informing decisions about which statistical methods are appropriate for further analysis.\n\nLearn more from the following resources:",
-    "links": [
-      {
-        "title": "Shapes of distributions",
-        "url": "https://online.stat.psu.edu/stat414/lesson/13/13.5",
-        "type": "course"
-      },
-      {
-        "title": "Shapes of Distributions: Definitions, Examples",
-        "url": "https://www.statisticshowto.com/shapes-of-distributions/",
-        "type": "article"
-      }
-    ]
+  "distribution-shape@Fyqg3MRcwY7g-Q3gjiqwK.md": {
+    "title": "Distribution Shape",
+    "description": "",
+    "links": []
   },
   "923KGEUG9ofBm7dYkkrxz": {
     "title": "Mean",
@@ -854,22 +827,6 @@
       {
         "title": "What is Tableau?",
         "url": "https://www.youtube.com/watch?v=NLCzpPRCc7U",
-        "type": "video"
-      }
-    ]
-  },
-  "SJLeose5vZU8w_18C8_t0": {
-    "title": "Power BI",
-    "description": "PowerBI, an interactive data visualization and business analytics tool developed by Microsoft, plays a crucial role in the field of a data analyst's work. It helps data analysts to convert raw data into meaningful insights through it's easy-to-use dashboards and reports function. This tool provides a unified view of business data, allowing analysts to track and visualize key performance metrics and make better-informed business decisions. With PowerBI, data analysts also have the ability to manipulate and produce visualizations of large data sets that can be shared across an organization, making complex statistical information more digestible.\n\nLearn more from the following resources:",
-    "links": [
-      {
-        "title": "Power BI",
-        "url": "https://www.microsoft.com/en-us/power-platform/products/power-bi",
-        "type": "article"
-      },
-      {
-        "title": "Power BI for beginners",
-        "url": "https://www.youtube.com/watch?v=NNSHu0rkew8",
         "type": "video"
       }
     ]

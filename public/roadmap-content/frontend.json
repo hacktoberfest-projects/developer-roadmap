@@ -1309,31 +1309,10 @@
       }
     ]
   },
-  "P4st_telfCwKLSAU2WsQP": {
-    "title": "Svelte Kit",
-    "description": "SvelteKit is a full-stack framework for building websites and applications with Svelte. Features file-based routing, code splitting, server-side rendering, and static site generation. Designed for simplicity and performance with excellent developer experience and easy deployment options.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Svelte Kit",
-        "url": "https://kit.svelte.dev/",
-        "type": "article"
-      },
-      {
-        "title": "Svelte Kit Docs",
-        "url": "https://kit.svelte.dev/docs/introduction",
-        "type": "article"
-      },
-      {
-        "title": "Explore top posts about Svelte",
-        "url": "https://app.daily.dev/tags/svelte?ref=roadmapsh",
-        "type": "article"
-      },
-      {
-        "title": "Sveltekit in 100 Seconds",
-        "url": "https://www.youtube.com/watch?v=H1eEFfAkIik",
-        "type": "video"
-      }
-    ]
+  "sveltekit@P4st_telfCwKLSAU2WsQP.md": {
+    "title": "SvelteKit",
+    "description": "",
+    "links": []
   },
   "L7AllJfKvClaam3y-u6DP": {
     "title": "GraphQL",
@@ -1652,31 +1631,10 @@
       }
     ]
   },
-  "xmRv6-L45m5MDpHmdHFCL": {
+  "ionic@Pxyk3nBlWbgmMjsA93E70.md": {
     "title": "Ionic",
-    "description": "Ionic builds mobile and desktop apps using web technologies (HTML, CSS, JavaScript) with Angular, React, or Vue. Provides UI components and native device access. Wraps web apps for native deployment with platform-adaptive styling. Enables rapid cross-platform development.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "ionic-team/ionic-framework",
-        "url": "https://github.com/ionic-team/ionic-framework",
-        "type": "opensource"
-      },
-      {
-        "title": "Ionic Framework Website",
-        "url": "https://ionicframework.com/",
-        "type": "article"
-      },
-      {
-        "title": "Ionic 8 Announcement",
-        "url": "https://ionic.io/blog/ionic-8-is-here",
-        "type": "article"
-      },
-      {
-        "title": "Explore top posts about Ionic",
-        "url": "https://app.daily.dev/tags/ionic?ref=roadmapsh",
-        "type": "article"
-      }
-    ]
+    "description": "",
+    "links": []
   },
   "KMA7NkxFbPoUDtFnGBFnj": {
     "title": "Desktop Apps",
@@ -1931,6 +1889,106 @@
   },
   "cache-control@tWDmeXItfQDxB8Jij_V4L.md": {
     "title": "Cache-Control",
+    "description": "",
+    "links": []
+  },
+  "claude-code@RcC1fVuePQZ59AsJfeTdR.md": {
+    "title": "Claude Code",
+    "description": "",
+    "links": []
+  },
+  "copilot@HQrxxDxKN8gizvXRU5psW.md": {
+    "title": "Copilot",
+    "description": "",
+    "links": []
+  },
+  "cursor@CKlkVK_7GZ7xzIUHJqZr8.md": {
+    "title": "Cursor",
+    "description": "",
+    "links": []
+  },
+  "antigravity@E7-LveK7jO2npxVTLUDfw.md": {
+    "title": "Antigravity",
+    "description": "",
+    "links": []
+  },
+  "how-llms-work@yKNdBbahm_h81xdMDT-qx.md": {
+    "title": "How LLMs work",
+    "description": "",
+    "links": []
+  },
+  "ai-vs-traditional-coding@IZKl6PxbvgNkryAkdy3-p.md": {
+    "title": "AI vs Traditional Coding",
+    "description": "",
+    "links": []
+  },
+  "code-reviews@0TMdly8yiqnNR8sx36iqc.md": {
+    "title": "Code Reviews",
+    "description": "",
+    "links": []
+  },
+  "docs-generation@q7NpwqQXUp4wt2to-yFiP.md": {
+    "title": "Docs Generation",
+    "description": "",
+    "links": []
+  },
+  "learn-the-basics@UTupdqjOyLh7-56_0SXJ8.md": {
+    "title": "Learn the Basics",
+    "description": "",
+    "links": []
+  },
+  "ai-assisted-coding@ipcNHz8KbfpE57kNP15hP.md": {
+    "title": "AI Assisted Coding",
+    "description": "",
+    "links": []
+  },
+  "prompting-techniques@Gv_g4gK6pZK6l_0xAn34X.md": {
+    "title": "Prompting Techniques",
+    "description": "",
+    "links": []
+  },
+  "gemini@Bic4PHhz-YqzPWRimJO83.md": {
+    "title": "Gemini",
+    "description": "",
+    "links": []
+  },
+  "openai@-ye5ZtYFDoYGpj-UJaBP8.md": {
+    "title": "OpenAI",
+    "description": "",
+    "links": []
+  },
+  "anthropic@Lw2nR7x8PYgq1P5CxPAxi.md": {
+    "title": "Anthropic",
+    "description": "",
+    "links": []
+  },
+  "implementing-ai@MdYPIf_9ezbIp6Dm5Fyme.md": {
+    "title": "Implementing AI",
+    "description": "",
+    "links": []
+  },
+  "refactoring@EYT2rTLZ8tUW2u8DOnAWF.md": {
+    "title": "Refactoring",
+    "description": "",
+    "links": []
+  },
+  "applications@Nx7mjvYgqLpmJ0_iSx5of.md": {
+    "title": "Applications",
+    "description": "",
+    "links": []
+  },
+  "agents@e4j6u0e_WqK1vfrUwJJ4M.md": {
+    "title": "Agents",
+    "description": "",
+    "links": []
+  },
+  "mcp@XFy2gj7DmXeaCoc6MZo_j.md": {
+    "title": "MCP",
+    "description": "",
+    "links": []
+  },
+  "skills@xL8d-uHMpJKwUvT8z-Jia.md": {
+    "title": "Skills",
     "description": "",
     "links": []
   }

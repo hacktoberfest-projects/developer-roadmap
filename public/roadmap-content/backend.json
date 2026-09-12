@@ -57,41 +57,10 @@
       }
     ]
   },
-  "SiYUdtYMDImRPmV2_XPkH": {
-    "title": "Internet",
-    "description": "The internet is a global network of interconnected computers using TCP/IP protocols. Requests travel through ISPs to DNS servers for domain-to-IP translation, then route across networks via routers to destination servers. Enables dynamic, decentralized global communication.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "How does the Internet Work?",
-        "url": "https://cs.fyi/guide/how-does-internet-work",
-        "type": "article"
-      },
-      {
-        "title": "The Internet Explained",
-        "url": "https://www.vox.com/2014/6/16/18076282/the-internet",
-        "type": "article"
-      },
-      {
-        "title": "How Does the Internet Work?",
-        "url": "http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm",
-        "type": "article"
-      },
-      {
-        "title": "Introduction to Internet",
-        "url": "/guides/what-is-internet",
-        "type": "article"
-      },
-      {
-        "title": "How does the Internet work?",
-        "url": "https://www.youtube.com/watch?v=x3c1ih2NJEg",
-        "type": "video"
-      },
-      {
-        "title": "How does the internet work? (Full Course)",
-        "url": "https://www.youtube.com/watch?v=zN8YNNHcaZc",
-        "type": "video"
-      }
-    ]
+  "introduction@SiYUdtYMDImRPmV2_XPkH.md": {
+    "title": "Introduction",
+    "description": "",
+    "links": []
   },
   "CWwh2abwqx4hAxpAGvhIx": {
     "title": "Rust",
@@ -2948,6 +2917,136 @@
   },
   "migrations@MOLAXgs0CMCT7o84L0EaK.md": {
     "title": "Migrations",
+    "description": "",
+    "links": []
+  },
+  "claude-code@RcC1fVuePQZ59AsJfeTdR.md": {
+    "title": "Claude Code",
+    "description": "",
+    "links": []
+  },
+  "copilot@HQrxxDxKN8gizvXRU5psW.md": {
+    "title": "Copilot",
+    "description": "",
+    "links": []
+  },
+  "cursor@CKlkVK_7GZ7xzIUHJqZr8.md": {
+    "title": "Cursor",
+    "description": "",
+    "links": []
+  },
+  "antigravity@E7-LveK7jO2npxVTLUDfw.md": {
+    "title": "Antigravity",
+    "description": "",
+    "links": []
+  },
+  "how-llms-work@tUNP5VRKvrPcufPDPPEo8.md": {
+    "title": "How LLMs work",
+    "description": "",
+    "links": []
+  },
+  "ai-vs-traditional-coding@IZKl6PxbvgNkryAkdy3-p.md": {
+    "title": "AI vs Traditional Coding",
+    "description": "",
+    "links": []
+  },
+  "code-reviews@0TMdly8yiqnNR8sx36iqc.md": {
+    "title": "Code Reviews",
+    "description": "",
+    "links": []
+  },
+  "documentation-generation@q7NpwqQXUp4wt2to-yFiP.md": {
+    "title": "Documentation Generation",
+    "description": "",
+    "links": []
+  },
+  "learn-the-basics@UTupdqjOyLh7-56_0SXJ8.md": {
+    "title": "Learn the Basics",
+    "description": "",
+    "links": []
+  },
+  "ai-assisted-coding@fA3yi9puMbTFmbPpo6OjN.md": {
+    "title": "AI Assisted Coding",
+    "description": "",
+    "links": []
+  },
+  "prompting-techniques@xL8d-uHMpJKwUvT8z-Jia.md": {
+    "title": "Prompting Techniques",
+    "description": "",
+    "links": []
+  },
+  "gemini@Bic4PHhz-YqzPWRimJO83.md": {
+    "title": "Gemini",
+    "description": "",
+    "links": []
+  },
+  "openai@-ye5ZtYFDoYGpj-UJaBP8.md": {
+    "title": "OpenAI",
+    "description": "",
+    "links": []
+  },
+  "anthropic@Lw2nR7x8PYgq1P5CxPAxi.md": {
+    "title": "Anthropic",
+    "description": "",
+    "links": []
+  },
+  "refactoring@EYT2rTLZ8tUW2u8DOnAWF.md": {
+    "title": "Refactoring",
+    "description": "",
+    "links": []
+  },
+  "applications@Nx7mjvYgqLpmJ0_iSx5of.md": {
+    "title": "Applications",
+    "description": "",
+    "links": []
+  },
+  "streaming@9f-aWi3_7USy4XpNzrTL6.md": {
+    "title": "Streaming",
+    "description": "",
+    "links": []
+  },
+  "structured-outputs@GMxPmyatxYmIPRFHfRAnr.md": {
+    "title": "Structured Outputs",
+    "description": "",
+    "links": []
+  },
+  "function-calling@Uve-UObgOBfrd-cLayVWe.md": {
+    "title": "Function Calling",
+    "description": "",
+    "links": []
+  },
+  "integration-patterns@iatQ3RCxESHt1CwN3PSfx.md": {
+    "title": "Integration Patterns",
+    "description": "",
+    "links": []
+  },
+  "rags@6PCOCzCbx7jo9wO2Hl2gy.md": {
+    "title": "RAGs",
+    "description": "",
+    "links": []
+  },
+  "vectors@yKNdBbahm_h81xdMDT-qx.md": {
+    "title": "Vectors",
+    "description": "",
+    "links": []
+  },
+  "embeddings@Ofv__kXuBk-Vv2jVhaFss.md": {
+    "title": "Embeddings",
+    "description": "",
+    "links": []
+  },
+  "mcp@mHnI19RgZ57XDEIDaHxD0.md": {
+    "title": "MCP",
+    "description": "",
+    "links": []
+  },
+  "skills@IWubGe3oquSj882QVnhLU.md": {
+    "title": "Skills",
+    "description": "",
+    "links": []
+  },
+  "agents@w1D3-bSg93ndKK9XJTu7z.md": {
+    "title": "Agents",
     "description": "",
     "links": []
   }
