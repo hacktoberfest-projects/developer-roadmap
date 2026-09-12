@@ -729,27 +729,6 @@
       }
     ]
   },
-  "eqGsO6ZGk2jdG0z9-cHzz": {
-    "title": "Power BI",
-    "description": "PowerBI, an interactive data visualization and business analytics tool developed by Microsoft, plays a crucial role in the field of a data analyst's work. It helps data analysts to convert raw data into meaningful insights through it's easy-to-use dashboards and reports function. This tool provides a unified view of business data, allowing analysts to track and visualize key performance metrics and make better-informed business decisions. With PowerBI, data analysts also have the ability to manipulate and produce visualizations of large data sets that can be shared across an organization, making complex statistical information more digestible.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Power BI",
-        "url": "https://www.microsoft.com/en-us/power-platform/products/power-bi",
-        "type": "article"
-      },
-      {
-        "title": "Power BI for beginners",
-        "url": "https://www.youtube.com/watch?v=NNSHu0rkew8",
-        "type": "video"
-      },
-      {
-        "title": "Power BI Full Course for Free in 20 Hours",
-        "url": "https://www.youtube.com/watch?v=cyWVzAQF9YU",
-        "type": "video"
-      }
-    ]
-  },
   "GoMIAQwusbT7fqJ-VnCrq": {
     "title": "Qlik",
     "description": "Qlik is a data analytics platform that allows users to explore data, discover insights, and make data-driven decisions. It uses associative technology, which enables users to explore relationships within data regardless of where it's stored. Qlik offers self-service analytics, data visualization, and data integration capabilities, empowering users to analyze data without relying solely on IT or data science teams.\n\nVisit the following resources to learn more:",
@@ -811,63 +790,6 @@
         "title": "Analytics and Business Intelligence Platforms Reviews and Ratings",
         "url": "https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms",
         "type": "article"
-      }
-    ]
-  },
-  "vQQSYPpcGO7ri0RFSWi0h": {
-    "title": "Python",
-    "description": "Python is a versatile and widely-used programming language known for its readability and extensive libraries. Learning Python as a BI analyst is crucial because it allows you to automate tasks like data cleaning and transformation, perform advanced statistical analysis beyond the capabilities of standard BI tools, and create custom visualizations. It empowers you to work with larger and more complex datasets, ultimately leading to deeper insights and more effective data-driven decision-making.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Visit Dedicated Python Roadmap",
-        "url": "https://roadmap.sh/python",
-        "type": "article"
-      },
-      {
-        "title": "Python",
-        "url": "https://www.python.org/",
-        "type": "article"
-      },
-      {
-        "title": "Real Python",
-        "url": "https://realpython.com/",
-        "type": "article"
-      },
-      {
-        "title": "Python for Data Analysis",
-        "url": "https://datapot.vn/wp-content/uploads/2023/12/datapot.vn-Python-for-Data-Analysis.pdf?srsltid=AfmBOopeeuwebcpwD9crBjnMo3wchpUtvkz-g1T2Phi7FFyjkx7l5t9e",
-        "type": "article"
-      },
-      {
-        "title": "Ultimate Data Analyst Bootcamp [24 Hours!]",
-        "url": "https://www.youtube.com/watch?v=wQQR60KtnFY",
-        "type": "video"
-      }
-    ]
-  },
-  "0OTmTRHlR3ImNU0zyLt8G": {
-    "title": "R",
-    "description": "R is a programming language and free software environment widely used for statistical computing and graphics. For BI analysts, R is valuable because it allows for advanced data analysis, statistical modeling, and the creation of custom visualizations beyond the capabilities of many standard BI tools. It empowers analysts to uncover deeper insights, build predictive models, and communicate findings effectively.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "R",
-        "url": "https://www.r-project.org/",
-        "type": "article"
-      },
-      {
-        "title": "R for Data Science",
-        "url": "https://r4ds.hadley.nz/",
-        "type": "article"
-      },
-      {
-        "title": "What is R? - An Introduction to The Statistical Computing Powerhouse",
-        "url": "https://www.datacamp.com/blog/all-about-r",
-        "type": "article"
-      },
-      {
-        "title": "R Programming For Beginners",
-        "url": "https://www.youtube.com/watch?v=KlsYCECWEWE&list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG",
-        "type": "video"
       }
     ]
   },
