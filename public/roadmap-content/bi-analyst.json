@@ -212,21 +212,10 @@
       }
     ]
   },
-  "HM1w6JJquaV6Vq4mjxM7p": {
-    "title": "Variables and Data Types",
-    "description": "Variables are characteristics or attributes that can be measured or counted, and they can take on different values. Data types classify these variables based on the kind of values they can hold, such as numbers (integers, decimals), text (strings), or logical values (true/false). Understanding variables and their data types is fundamental for organizing, analyzing, and interpreting data effectively.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Variable Data Types Explained",
-        "url": "https://www.freecodecamp.org/news/variable-data-types-explained/",
-        "type": "article"
-      },
-      {
-        "title": "Intro to Statistics",
-        "url": "https://www.udacity.com/course/intro-to-statistics--st101",
-        "type": "article"
-      }
-    ]
+  "variables--data-types@HM1w6JJquaV6Vq4mjxM7p.md": {
+    "title": "Variables & Data Types",
+    "description": "",
+    "links": []
   },
   "DQtznxvW5x4s-zGLpUpNY": {
     "title": "Mode",
@@ -528,21 +517,10 @@
     "description": "Relational databases are a common way to store and organize data in tables with rows and columns. They use relationships between these tables to efficiently manage information. Some popular examples include MySQL, a widely used open-source database; PostgreSQL, known for its robustness and adherence to standards; SQLite, a lightweight database often embedded in applications; and Oracle, a commercial database known for its scalability and features.",
     "links": []
   },
-  "ETT9eATuyLHQe2jPqaF5I": {
-    "title": "Exploratory Data Analysis (EDA)",
-    "description": "Exploratory Data Analysis (EDA) is an approach to analyzing data sets to summarize their main characteristics, often with visual methods. It's used to discover patterns, spot anomalies, test hypotheses, and check assumptions with the help of summary statistics and graphical representations. The goal of EDA is to gain a deeper understanding of the data before formal modelling or hypothesis testing.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "What is Exploratory Data Analysis?",
-        "url": "https://www.ibm.com/think/topics/exploratory-data-analysis",
-        "type": "article"
-      },
-      {
-        "title": "Exploratory Data Analysis",
-        "url": "https://www.youtube.com/watch?v=QiqZliDXCCg",
-        "type": "video"
-      }
-    ]
+  "exploratory-data-analysis@ETT9eATuyLHQe2jPqaF5I.md": {
+    "title": "Exploratory Data Analysis",
+    "description": "",
+    "links": []
   },
   "xjgqmJmetKpWXSWZHPwaL": {
     "title": "Duplicates",
@@ -587,47 +565,15 @@
       }
     ]
   },
-  "hrkMVMYWCedRxhNd2N9wE": {
-    "title": "Data Transformation Techniques",
-    "description": "Data transformation techniques involve changing data from one format or structure to another. Common techniques include:\n\n*   **Cleaning:** Handling missing values, correcting errors, and removing duplicates.\n*   **Filtering:** Selecting specific data based on defined criteria.\n*   **Aggregation:** Summarizing data (e.g., calculating sums, averages, counts).\n*   **Joining:** Combining data from multiple sources based on related fields.\n*   **Pivoting:** Rotating data to change rows into columns or vice versa.\n*   **Normalization/Standardization:** Scaling numerical data to a specific range.\n*   **Data Type Conversion:** Changing the data type of a field (e.g., string to integer).\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Data Transformation",
-        "url": "https://www.qlik.com/us/data-management/data-transformation",
-        "type": "article"
-      },
-      {
-        "title": "What is Data Transformation? (Types of Data Transformations and Examples!)",
-        "url": "https://www.youtube.com/watch?v=TY0NAPAWR3M",
-        "type": "video"
-      }
-    ]
+  "data-trans-techniques@hrkMVMYWCedRxhNd2N9wE.md": {
+    "title": "Data Trans. Techniques",
+    "description": "",
+    "links": []
   },
-  "sltVKaKKjmzu17jDv9OFF": {
-    "title": "Visualization Fundamentals",
-    "description": "Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data. It transforms raw data into meaningful insights, making it easier to identify relationships and draw conclusions.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Business Intelligence Fundamentals",
-        "url": "https://www.simplilearn.com/free-business-intelligence-course-online-skillup",
-        "type": "course"
-      },
-      {
-        "title": "What Is Data Visualization? Definition, Examples, And Learning Resources",
-        "url": "https://www.tableau.com/visualization/what-is-data-visualization",
-        "type": "article"
-      },
-      {
-        "title": "Fundamentals of Data Visualization",
-        "url": "https://clauswilke.com/dataviz/introduction.html",
-        "type": "article"
-      },
-      {
-        "title": "The Ultimate Data Visualization Handbook for Designers",
-        "url": "https://uxmag.medium.com/the-ultimate-data-visualization-handbook-for-designers-efa7d6e0b6fe",
-        "type": "article"
-      }
-    ]
+  "viz-fundamentals@sltVKaKKjmzu17jDv9OFF.md": {
+    "title": "Viz. Fundamentals",
+    "description": "",
+    "links": []
   },
   "BUizLtQ7vpdyBRjS8KyIl": {
     "title": "Barplot",
@@ -729,27 +675,6 @@
       }
     ]
   },
-  "eqGsO6ZGk2jdG0z9-cHzz": {
-    "title": "Power BI",
-    "description": "PowerBI, an interactive data visualization and business analytics tool developed by Microsoft, plays a crucial role in the field of a data analyst's work. It helps data analysts to convert raw data into meaningful insights through it's easy-to-use dashboards and reports function. This tool provides a unified view of business data, allowing analysts to track and visualize key performance metrics and make better-informed business decisions. With PowerBI, data analysts also have the ability to manipulate and produce visualizations of large data sets that can be shared across an organization, making complex statistical information more digestible.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Power BI",
-        "url": "https://www.microsoft.com/en-us/power-platform/products/power-bi",
-        "type": "article"
-      },
-      {
-        "title": "Power BI for beginners",
-        "url": "https://www.youtube.com/watch?v=NNSHu0rkew8",
-        "type": "video"
-      },
-      {
-        "title": "Power BI Full Course for Free in 20 Hours",
-        "url": "https://www.youtube.com/watch?v=cyWVzAQF9YU",
-        "type": "video"
-      }
-    ]
-  },
   "GoMIAQwusbT7fqJ-VnCrq": {
     "title": "Qlik",
     "description": "Qlik is a data analytics platform that allows users to explore data, discover insights, and make data-driven decisions. It uses associative technology, which enables users to explore relationships within data regardless of where it's stored. Qlik offers self-service analytics, data visualization, and data integration capabilities, empowering users to analyze data without relying solely on IT or data science teams.\n\nVisit the following resources to learn more:",
@@ -814,276 +739,10 @@
       }
     ]
   },
-  "vQQSYPpcGO7ri0RFSWi0h": {
-    "title": "Python",
-    "description": "Python is a versatile and widely-used programming language known for its readability and extensive libraries. Learning Python as a BI analyst is crucial because it allows you to automate tasks like data cleaning and transformation, perform advanced statistical analysis beyond the capabilities of standard BI tools, and create custom visualizations. It empowers you to work with larger and more complex datasets, ultimately leading to deeper insights and more effective data-driven decision-making.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Visit Dedicated Python Roadmap",
-        "url": "https://roadmap.sh/python",
-        "type": "article"
-      },
-      {
-        "title": "Python",
-        "url": "https://www.python.org/",
-        "type": "article"
-      },
-      {
-        "title": "Real Python",
-        "url": "https://realpython.com/",
-        "type": "article"
-      },
-      {
-        "title": "Python for Data Analysis",
-        "url": "https://datapot.vn/wp-content/uploads/2023/12/datapot.vn-Python-for-Data-Analysis.pdf?srsltid=AfmBOopeeuwebcpwD9crBjnMo3wchpUtvkz-g1T2Phi7FFyjkx7l5t9e",
-        "type": "article"
-      },
-      {
-        "title": "Ultimate Data Analyst Bootcamp [24 Hours!]",
-        "url": "https://www.youtube.com/watch?v=wQQR60KtnFY",
-        "type": "video"
-      }
-    ]
-  },
-  "0OTmTRHlR3ImNU0zyLt8G": {
-    "title": "R",
-    "description": "R is a programming language and free software environment widely used for statistical computing and graphics. For BI analysts, R is valuable because it allows for advanced data analysis, statistical modeling, and the creation of custom visualizations beyond the capabilities of many standard BI tools. It empowers analysts to uncover deeper insights, build predictive models, and communicate findings effectively.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "R",
-        "url": "https://www.r-project.org/",
-        "type": "article"
-      },
-      {
-        "title": "R for Data Science",
-        "url": "https://r4ds.hadley.nz/",
-        "type": "article"
-      },
-      {
-        "title": "What is R? - An Introduction to The Statistical Computing Powerhouse",
-        "url": "https://www.datacamp.com/blog/all-about-r",
-        "type": "article"
-      },
-      {
-        "title": "R Programming For Beginners",
-        "url": "https://www.youtube.com/watch?v=KlsYCECWEWE&list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG",
-        "type": "video"
-      }
-    ]
-  },
   "KSxjcWV6C325kZITzAhWs": {
     "title": "Programming Languages",
     "description": "Programming languages are sets of instructions that tell computers what to do. For BI Analysts, learning a programming language unlocks powerful capabilities beyond standard BI tools. It allows you to automate tasks, clean and transform data in complex ways, build custom visualizations, and integrate different data sources. By learning a programming language, BI Analysts can solve more complex problems and gain deeper insights from data.",
     "links": []
-  },
-  "JHGV0V78GXubiSY9P3nTw": {
-    "title": "Risk Analytics",
-    "description": "Risk analytics involves identifying, assessing, and mitigating potential risks that could impact an organization's financial stability and overall performance. It uses data analysis techniques to understand the likelihood and potential consequences of various risks, such as market volatility, credit defaults, and operational failures. The goal is to provide insights that enable informed decision-making and proactive risk management strategies.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "What are financial risk analytics?",
-        "url": "http://stripe.com/en-es/resources/more/what-are-financial-risk-analytics-what-businesses-need-to-know",
-        "type": "article"
-      },
-      {
-        "title": "Risk Analysis: Definition, Types, Limitations, and Examples",
-        "url": "https://www.investopedia.com/terms/r/risk-analysis.asp",
-        "type": "article"
-      }
-    ]
-  },
-  "OqHNW0PzIRsw7IBgh5U5Q": {
-    "title": "CLV",
-    "description": "Customer Lifetime Value (CLV) predicts the total revenue a business can expect from a single customer account throughout their relationship. It considers factors like purchase frequency, average order value, and customer lifespan to estimate the long-term profitability of each customer. This metric helps businesses understand which customer segments are most valuable and informs decisions about customer acquisition, retention, and marketing strategies.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "What Customer Lifetime Value (CLV) Is and How to Calculate It",
-        "url": "https://www.netsuite.com/portal/resource/articles/ecommerce/customer-lifetime-value-clv.shtml",
-        "type": "article"
-      }
-    ]
-  },
-  "j-GXKpMnsVuUUUdRxAXLe": {
-    "title": "Compliance Reporting",
-    "description": "Compliance reporting involves creating reports that demonstrate an organization's adherence to laws, regulations, policies, and industry standards. These reports provide evidence of compliance to regulatory bodies, stakeholders, and internal management, ensuring transparency and accountability. They often include key performance indicators (KPIs), metrics, and data visualizations to highlight compliance status and identify areas for improvement.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Streamlining Financial Compliance with AI-Powered BI",
-        "url": "https://www.strategysoftware.com/blog/streamlining-financial-compliance-with-ai-powered-bi",
-        "type": "article"
-      }
-    ]
-  },
-  "aJLGan5dkMefvkspFlcYo": {
-    "title": "Fraud Detection",
-    "description": "Fraud detection involves identifying and preventing deceptive or illegal activities in financial transactions. It uses data analysis techniques to spot patterns and anomalies that deviate from normal behavior, helping organizations minimize financial losses and maintain integrity. This process often involves analyzing large datasets of transactions, customer information, and other relevant data to flag suspicious activities for further investigation.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "What Is Fraud Analytics and How to Use Data for Fraud Detection?",
-        "url": "https://www.feedzai.com/blog/fraud-data-analytics/",
-        "type": "article"
-      },
-      {
-        "title": "Data analysis for fraud detection",
-        "url": "https://en.wikipedia.org/wiki/Data_analysis_for_fraud_detection",
-        "type": "article"
-      }
-    ]
-  },
-  "xftv5BiyoVrFjpSN0tjsw": {
-    "title": "Finance",
-    "description": "Business Intelligence tools help analyze large datasets to improve decision-making in the finance sector. They are used to track financial performance, identify trends, manage risk, and detect fraud. BI applications provide insights into profitability, customer behavior, and operational efficiency, enabling financial institutions to optimize their strategies and improve their bottom line.",
-    "links": []
-  },
-  "VPu8vn7-baZQ5ORJ6ViW0": {
-    "title": "Sales Performance",
-    "description": "Sales performance refers to how well a company or individual is doing in terms of generating revenue through sales activities. It involves tracking, analyzing, and improving various metrics like sales volume, revenue growth, conversion rates, and customer acquisition cost to understand what's working and what's not in the sales process. This understanding helps businesses make informed decisions to optimize their sales strategies and achieve their revenue targets.",
-    "links": []
-  },
-  "0qRm81lJX_Eb6aJkJMjeL": {
-    "title": "Marketing Campaigns",
-    "description": "Marketing campaigns are organized efforts to promote a specific business goal, such as increasing brand awareness, driving sales, or launching a new product. These campaigns involve a series of coordinated activities, including advertising, promotions, content creation, and customer engagement, all designed to reach a target audience and achieve measurable results. The success of a marketing campaign is typically evaluated based on key performance indicators (KPIs) like conversion rates, return on investment (ROI), and customer acquisition cost (CAC).\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "What is campaign analytics?",
-        "url": "https://hightouch.com/blog/campaign-analytics",
-        "type": "article"
-      }
-    ]
-  },
-  "LkbB0rpS3Du2K7_ogoc34": {
-    "title": "Inventory Optimization",
-    "description": "Inventory optimization is the process of strategically managing and controlling the flow of goods to minimize costs while meeting customer demand. It involves analyzing historical sales data, forecasting future demand, and considering factors like lead times, storage costs, and potential obsolescence to determine the optimal quantity of each product to keep in stock. The goal is to strike a balance between avoiding stockouts and minimizing excess inventory, ultimately improving profitability and customer satisfaction.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "6 effective inventory optimization techniques your team should be using",
-        "url": "https://www.thoughtspot.com/data-trends/analytics/inventory-optimization-techniques",
-        "type": "article"
-      },
-      {
-        "title": "What Is Inventory Optimization? Benefits and Techniques",
-        "url": "https://www.netsuite.com/portal/resource/articles/inventory-management/inventory-optimization.shtml",
-        "type": "article"
-      }
-    ]
-  },
-  "7jrzQogTOc6lHXfpYLCsx": {
-    "title": "Supply Chain Analytics",
-    "description": "Supply Chain Analytics involves using data to understand and improve all aspects of a company's supply chain, from sourcing raw materials to delivering finished products to customers. This includes analyzing data related to inventory levels, transportation costs, supplier performance, and demand forecasting to identify bottlenecks, optimize processes, and reduce costs. The goal is to create a more efficient, responsive, and resilient supply chain.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "What Is Supply Chain Analytics?",
-        "url": "https://www.ibm.com/think/topics/supply-chain-analytics",
-        "type": "article"
-      }
-    ]
-  },
-  "7LbhfkmS7oFoSF1k5ZR1U": {
-    "title": "Retail & E-commerce",
-    "description": "Business intelligence in retail and e-commerce helps companies understand their sales trends, customer behavior, and operational efficiency. By analyzing data from various sources like point-of-sale systems, website analytics, and customer databases, retailers can identify top-selling products, optimize pricing strategies, personalize marketing campaigns, and improve inventory management. This data-driven approach enables them to make informed decisions, enhance customer experiences, and ultimately increase profitability.",
-    "links": []
-  },
-  "LI09SvvUUCQxLZZee_j0n": {
-    "title": "Patient management",
-    "description": "Data analytics helps healthcare providers manage patients more effectively. By analyzing patient data like medical history, appointments, and treatment outcomes, hospitals and clinics can identify trends and patterns. This information allows them to improve scheduling, reduce wait times, personalize treatment plans, and ultimately provide better care for each patient.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Top 8 Use Cases of Healthcare Business Intelligence",
-        "url": "https://kms-healthcare.com/blog/healthcare-business-intelligence/",
-        "type": "article"
-      }
-    ]
-  },
-  "omvGuhou7_63k-Fwcc7Mu": {
-    "title": "Compliance Reporting",
-    "description": "Compliance reporting in healthcare involves creating reports that demonstrate adherence to regulations and standards set by healthcare organizations. These reports track key performance indicators (KPIs) related to patient safety, data security, financial integrity, and quality of care. They are used to identify areas of non-compliance, mitigate risks, and ensure that healthcare providers meet legal and ethical obligations.",
-    "links": []
-  },
-  "ku3m0ZmNg23F0Z5CEb4JI": {
-    "title": "Hospital Efficiency",
-    "description": "Data analytics can help hospitals run smoother and provide better care. By looking at data on patient flow, staffing levels, and resource usage, hospitals can identify bottlenecks and areas for improvement. For example, analyzing wait times in the emergency room can reveal patterns that suggest the need for more staff during peak hours. Similarly, tracking the use of medical equipment can help hospitals optimize inventory and reduce waste. Ultimately, data-driven insights enable hospitals to make informed decisions that improve efficiency, reduce costs, and enhance patient outcomes.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Improving Hospital Efficiency with Health Data Analytics",
-        "url": "https://futuramo.com/blog/improving-hospital-efficiency-with-health-data-analytics/",
-        "type": "article"
-      }
-    ]
-  },
-  "VpGVezYr9O6puhAF12PN2": {
-    "title": "Healthcare",
-    "description": "Business Intelligence can be a game-changer in healthcare, helping hospitals, clinics, and other medical organizations make better decisions. It involves collecting and analyzing data from various sources, like patient records, insurance claims, and operational systems. This data is then used to identify trends, improve patient care, optimize resource allocation, reduce costs, and enhance overall efficiency within the healthcare system.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "What Is Health Care Business Intelligence?",
-        "url": "https://www.coursera.org/articles/healthcare-business-intelligence",
-        "type": "article"
-      }
-    ]
-  },
-  "L50rpcgGjsQU3S0zRn6xh": {
-    "title": "Production Efficiency",
-    "description": "Production efficiency measures how well a manufacturing process converts inputs (like raw materials, labor, and energy) into outputs (finished goods). It focuses on minimizing waste, optimizing resource utilization, and streamlining workflows to produce the maximum possible output with the least amount of input. Analyzing production efficiency involves tracking key performance indicators (KPIs) such as throughput, cycle time, and defect rates to identify areas for improvement and ultimately reduce costs and increase profitability.",
-    "links": []
-  },
-  "yimCxOdNtyGcbd6ZxHsBQ": {
-    "title": "Predictive Maintenance",
-    "description": "Predictive maintenance uses data analysis and machine learning to forecast when equipment failures are likely to occur. This allows manufacturers to schedule maintenance proactively, minimizing downtime and reducing costs associated with unexpected breakdowns. By analyzing sensor data, historical maintenance records, and other relevant information, predictive maintenance models can identify patterns and anomalies that indicate potential problems before they lead to significant disruptions.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "What is Predictive Maintenance?",
-        "url": "https://www.ibm.com/think/topics/predictive-maintenance",
-        "type": "article"
-      },
-      {
-        "title": "Predictive Maintenance Explained",
-        "url": "https://www.youtube.com/watch?v=2_o1SDy6__U",
-        "type": "video"
-      }
-    ]
-  },
-  "Xe9zK8xhkkr4fsh3HOzAY": {
-    "title": "Quality Control",
-    "description": "Quality control in manufacturing involves systematically monitoring and evaluating products or processes to ensure they meet predefined standards and specifications. This includes identifying defects, analyzing their root causes, and implementing corrective actions to improve product quality and process efficiency. The goal is to minimize errors, reduce waste, and consistently deliver high-quality products to customers.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Quality Control in Manufacturing: Methods, Best Practices, and Implementation",
-        "url": "https://www.starrapid.com/blog/quality-control-in-manufacturing/",
-        "type": "article"
-      }
-    ]
-  },
-  "-hNguvT6SQCqAgVpoQByr": {
-    "title": "Supply chain optimization",
-    "description": "Supply chain optimization involves streamlining the processes of sourcing, production, and distribution to maximize efficiency and minimize costs. It focuses on improving the flow of goods, information, and finances across the entire supply chain, from raw materials to the end customer. This includes strategies for inventory management, transportation, warehousing, and demand forecasting to ensure the right products are available at the right place, at the right time, and at the right cost.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "How supply chain analytics keeps processes and products moving",
-        "url": "https://www.teradata.com/insights/data-analytics/supply-chain-analytics",
-        "type": "article"
-      },
-      {
-        "title": "Enhance Efficiency: Supply Chain Analytics in Manufacturing",
-        "url": "https://www.scatterpie.io/blogs/supply-chain-analytics-in-manufacturing",
-        "type": "article"
-      }
-    ]
-  },
-  "zEGmDHaFa-F81tWqa3i9E": {
-    "title": "Manufacturing",
-    "description": "Data analytics and BI in manufacturing involves using data to understand and improve how things are made in industrial settings. It's about collecting information from different parts of the manufacturing process – like production lines, supply chains, and sales – and then analyzing it to find patterns and insights. This helps manufacturers make smarter decisions about things like optimizing production, reducing costs, improving quality, and predicting future demand.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "What Is Manufacturing Analytics?",
-        "url": "http://oracle.com/au/scm/manufacturing/manufacturing-analytics/",
-        "type": "article"
-      },
-      {
-        "title": "The future of manufacturing is powered by data and analytics. Here's why",
-        "url": "https://www.weforum.org/stories/2022/09/manufacturing-data-advanced-analytics/",
-        "type": "article"
-      }
-    ]
   },
   "qKlo90-Cy8t_off5Qv8-6": {
     "title": "A/B Testing",
@@ -1223,16 +882,10 @@
       }
     ]
   },
-  "Slg3fXGPTa-Z4sdZY86XK": {
-    "title": "Writing Executive Summaries",
-    "description": "Executive summaries are concise overviews of longer reports or analyses, designed to quickly inform decision-makers. The best executive summaries clearly state the problem or opportunity, the key findings, the recommended actions, and the expected benefits. They should be brief, typically no more than one page, and written in plain language, avoiding technical jargon. Prioritize clarity and focus on the most important information, ensuring the summary is easily understood and actionable.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "How to write an executive summary, with examples",
-        "url": "https://asana.com/resources/executive-summary-examples",
-        "type": "article"
-      }
-    ]
+  "writing-exec-summaries@Slg3fXGPTa-Z4sdZY86XK.md": {
+    "title": "Writing Exec. Summaries",
+    "description": "",
+    "links": []
   },
   "r-m88g8xrUnuEpV2lHJfN": {
     "title": "Stakeholder Management",
@@ -1316,16 +969,10 @@
       }
     ]
   },
-  "fuxGZx3WGjP2TzzVV29ux": {
-    "title": "Privacy",
-    "description": "Privacy refers to the right of individuals to control how their personal information is collected, used, and shared. It encompasses various aspects, including data security, confidentiality, and compliance with regulations like GDPR and CCPA. Protecting privacy involves implementing policies and procedures to safeguard sensitive data and ensuring transparency in data handling practices.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "What Is Data Privacy?",
-        "url": "https://www.ibm.com/think/topics/data-privacy",
-        "type": "article"
-      }
-    ]
+  "data-privacy@fuxGZx3WGjP2TzzVV29ux.md": {
+    "title": "Data Privacy",
+    "description": "",
+    "links": []
   },
   "9aNVqEyygNGeicdce5X8b": {
     "title": "Bias Recognition",
@@ -1444,21 +1091,10 @@
       }
     ]
   },
-  "Prfa0LUmgxcp52IEObFom": {
-    "title": "Normalization vs Denormalization",
-    "description": "Database normalization is a process used to organize a database into tables and columns. The idea is that a table should be about a specific topic and that only those columns which support that topic are included. This limits the number of duplicate data contained within your database. This makes the database more flexible by eliminating issues stemming from database modifications.\n\nDenormalization is the opposite of normalization. It is the process of adding redundant data to a database to improve read performance. This is done by adding duplicate data into multiple tables to avoid expensive joins. This is done at the expense of increased storage and decreased write performance.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Normalization vs. Denormalization in databases",
-        "url": "https://codilime.com/blog/normalization-vs-denormalization-in-databases/",
-        "type": "article"
-      },
-      {
-        "title": "Normalization vs. Denormalization | Events and Event Streaming",
-        "url": "https://www.youtube.com/watch?v=sDU94hraq8g",
-        "type": "video"
-      }
-    ]
+  "data-normalizayion@Prfa0LUmgxcp52IEObFom.md": {
+    "title": "Data Normalizayion",
+    "description": "",
+    "links": []
   },
   "hcbS18cpVxd55hVlUeLLT": {
     "title": "Fact vs Dimension Tables",
@@ -1471,9 +1107,9 @@
       }
     ]
   },
-  "fFzCnLfZ_vSbhQjdAKLlJ": {
-    "title": "Calculated Fields & Measures",
-    "description": "Calculated fields and measures are custom computations derived from existing data within a data model. They allow you to create new insights and metrics by applying formulas, functions, and logic to raw data. These calculations can involve aggregations, arithmetic operations, conditional statements, and more, enabling you to analyze data in ways not directly available from the original dataset. Modern BI tools usually come with capabilities to create custom calculated fields and measures.",
+  "calc-fields--measures@fFzCnLfZ_vSbhQjdAKLlJ.md": {
+    "title": "Calc. Fields & Measures",
+    "description": "",
     "links": []
   },
   "Dk31XtS7wWRzO31sdsEDo": {
@@ -1491,11 +1127,6 @@
         "type": "article"
       }
     ]
-  },
-  "lAK9QVs97hL3ysjz2blp8": {
-    "title": "ETL Tools",
-    "description": "ETL (Extract, Transform, Load) tools are software applications used to move data from various source systems into a data warehouse or other target system. These tools extract data from different sources, transform it into a consistent and usable format, and then load it into the destination system for analysis and reporting. This process ensures data quality and consistency, making it easier for business intelligence analysts to derive meaningful insights.",
-    "links": []
   },
   "Du4GD-6pxbWYl4uSJRnOE": {
     "title": "ETL basics",
@@ -1518,21 +1149,10 @@
       }
     ]
   },
-  "3xDVJwdl3uu5EcjlZ1ytA": {
-    "title": "End-to-end Analytics Project",
-    "description": "An end-to-end analytics project encompasses the entire process of solving a business problem using data. This involves defining the problem, gathering and cleaning data, performing exploratory data analysis, building and deploying a model or visualization, and communicating the results and recommendations to stakeholders. It demonstrates a comprehensive understanding of the analytics lifecycle.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "20 Data Analytics Projects for All Levels",
-        "url": "https://www.datacamp.com/blog/data-analytics-projects-all-levels",
-        "type": "article"
-      },
-      {
-        "title": "End to End Data Analytics Project (Python + SQL)",
-        "url": "https://www.youtube.com/watch?v=uL0-6kfiH3g",
-        "type": "video"
-      }
-    ]
+  "end-to-end-projects@3xDVJwdl3uu5EcjlZ1ytA.md": {
+    "title": "End-to-end Projects",
+    "description": "",
+    "links": []
   },
   "yvSf7sGEd7QiaVoetalHc": {
     "title": "Data Pipeline Design",
@@ -1667,16 +1287,10 @@
     "description": "A portfolio presentation is a structured way to showcase your skills and experience to potential employers. It involves selecting relevant projects, highlighting your contributions and the impact of your work, and presenting them in a clear and compelling manner. The goal is to demonstrate your abilities and how you can add value to their organization.",
     "links": []
   },
-  "k3F9Tdqo3XYgMLOKGjpxA": {
-    "title": "Salary negotiation strategies",
-    "description": "Salary negotiation strategies involve preparing for and engaging in discussions with potential employers to secure the best possible compensation package. This includes researching industry benchmarks, understanding your worth, practicing your negotiation skills, and knowing when to compromise or walk away. The goal is to confidently advocate for your value and achieve a salary that reflects your skills and experience.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "15 Rules for Negotiating a Job Offer",
-        "url": "https://hbr.org/2014/04/15-rules-for-negotiating-a-job-offer",
-        "type": "article"
-      }
-    ]
+  "salary-negotiation@k3F9Tdqo3XYgMLOKGjpxA.md": {
+    "title": "Salary negotiation",
+    "description": "",
+    "links": []
   },
   "TojDB4o0i2rs7Qcb10k1r": {
     "title": "Job Preparation",
@@ -2304,21 +1918,10 @@
       }
     ]
   },
-  "eKBORkRU6HCH-D4GWHyKR": {
-    "title": "Visualization Best Practices",
-    "description": "Visualization best practices are a set of guidelines and principles that help you create effective and informative data visualizations. These practices focus on clarity, accuracy, and aesthetics to ensure that your visualizations communicate insights clearly and avoid misleading interpretations. They cover aspects like choosing the right chart type, using color effectively, and designing layouts that are easy to understand.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Data Visualization Tips and Best Practices",
-        "url": "https://www.tableau.com/visualization/data-visualization-best-practices",
-        "type": "article"
-      },
-      {
-        "title": "Visual Best Practices",
-        "url": "https://help.tableau.com/current/blueprint/en-us/bp_visual_best_practices.htm",
-        "type": "article"
-      }
-    ]
+  "viz-best-practices@eKBORkRU6HCH-D4GWHyKR.md": {
+    "title": "Viz. Best Practices",
+    "description": "",
+    "links": []
   },
   "TCYG6vmFqq1zAPNQWoOH8": {
     "title": "Standardisation",
@@ -2346,22 +1949,6 @@
         "type": "video"
       }
     ]
-  },
-  "1T2PyytlmndHreWgueD55": {
-    "title": "Financial Performance",
-    "description": "Financial performance refers to how well a company uses its assets to generate revenue. It's measured through various financial metrics and ratios that provide insights into a company's profitability, efficiency, solvency, and liquidity. Analyzing financial performance helps stakeholders understand the overall health and sustainability of a business.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Financial Performance: Definition, How It Works, and Example",
-        "url": "https://www.investopedia.com/terms/f/financialperformance.asp#:~:text=A%20financial%20performance%20analysis%20examines,statements%20used%20in%20performance%20analysis.",
-        "type": "article"
-      }
-    ]
-  },
-  "Cydlrtg_FClBUkjezqGie": {
-    "title": "Public Health",
-    "description": "Data analytics in public health uses information to understand and tackle health issues affecting large groups of people. During events like pandemics, analyzing data on disease spread, patient demographics, and resource availability helps identify hotspots, predict future outbreaks, and optimize the distribution of medical supplies. This allows public health officials to make informed decisions, implement targeted interventions, and ultimately improve health outcomes for the population.",
-    "links": []
   },
   "On6kznZxLTCpBPskdZtgT": {
     "title": "Trends",
@@ -2453,31 +2040,10 @@
       }
     ]
   },
-  "TBcLXYtKs7_j_h_m2pAyh": {
-    "title": "Communication & Storytelling",
-    "description": "Communication and storytelling involve conveying insights and findings from data analysis in a clear, concise, and engaging manner. It's about transforming complex data into understandable narratives that resonate with the audience, enabling them to grasp the significance of the information and make informed decisions. This includes using visuals, language, and structure to effectively present data-driven insights.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "What is data storytelling?",
-        "url": "http://microsoft.com/en-us/power-platform/products/power-bi/topics/data-storytelling",
-        "type": "article"
-      },
-      {
-        "title": "Data Storytelling: How to Effectively Tell a Story with Data",
-        "url": "https://online.hbs.edu/blog/post/data-storytelling",
-        "type": "article"
-      },
-      {
-        "title": "Effective Data Storytelling: How to drive change with data, narrative, and visuals",
-        "url": "https://dl.nemoudar.com/effective-data-storytelling-how-to-drive-change-with-data-narrative-and-visuals-1nbsped-1119615712-9781119615712_compress.pdf",
-        "type": "article"
-      },
-      {
-        "title": "Telling Stories with Data in 3 Steps (Quick Study)",
-        "url": "https://www.youtube.com/watch?v=r5_34YnCmMY",
-        "type": "video"
-      }
-    ]
+  "com--storytelling@TBcLXYtKs7_j_h_m2pAyh.md": {
+    "title": "Com. & Storytelling",
+    "description": "",
+    "links": []
   },
   "mi88uLdJBXaxJ2yVOSqqo": {
     "title": "Soft Skills",
@@ -2675,30 +2241,9 @@
       }
     ]
   },
-  "Z4pAe4FpnCkUJt8RuOhC6": {
-    "title": "Providers: AWS, GCP, Azure",
-    "description": "Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure are the leading cloud providers, offering a wide range of services. These services include computing power, data storage, networking, databases, analytics, machine learning, and more, all accessible over the internet. They allow businesses to avoid the upfront costs and complexities of owning and managing their own IT infrastructure, providing scalable and on-demand resources.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Amazon Web Services",
-        "url": "https://aws.amazon.com/",
-        "type": "article"
-      },
-      {
-        "title": "Microsoft Azure",
-        "url": "https://azure.microsoft.com/",
-        "type": "article"
-      },
-      {
-        "title": "Google Cloud",
-        "url": "https://cloud.google.com/",
-        "type": "article"
-      },
-      {
-        "title": "The Basics You Need to Know about AWS, Azure, and Google Cloud",
-        "url": "https://www.youtube.com/watch?v=wFsOjHgvUfM",
-        "type": "video"
-      }
-    ]
+  "aws-gcp-azure@Z4pAe4FpnCkUJt8RuOhC6.md": {
+    "title": "AWS, GCP, Azure",
+    "description": "",
+    "links": []
   }
 }
